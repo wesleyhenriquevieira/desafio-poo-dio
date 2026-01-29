@@ -54,8 +54,8 @@ public class Main {
         devWesley.progredir();
         devWesley.progredir();
         System.out.println("-");
-        System.out.println("Conteúdos Inscritos Wesley" + devWesley.getConteudosInscritos());
-        System.out.println("Conteúdos Concluídos Wesley" + devWesley.getConteudosConcluidos());
+        System.out.println("Conteúdos inscritos Wesley" + devWesley.getConteudosInscritos());
+        System.out.println("Conteúdos concluídos Wesley" + devWesley.getConteudosConcluidos());
         System.out.println("XP:" + devWesley.calcularTotalXp());
     }
 }
