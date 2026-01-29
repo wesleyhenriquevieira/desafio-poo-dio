@@ -1,4 +1,4 @@
 # Desafio DIO - Programação Orientada a Objetos
 
-Projeto desenvolvido como parte de um desafio da DIO para praticar
-conceitos básicos de Programação Orientada a Objetos em Java.
+Projeto desenvolvido em Java como parte do desafio de Programação Orientada a Objetos da DIO.
+Foram aplicados conceitos como encapsulamento, herança, polimorfismo, abstração, uso de coleções (Set), sobrescrita de métodos e organização em pacotes.
